@@ -58,7 +58,8 @@ Système intelligent d'extraction automatique de notes à partir de copies d'exa
 ## 📥 Entrée (Input)
 
 ### Exemple de Copie Scannée
-![Exemple de copie scannée]([https://via.placeholder.com/800x400/f0f0f0/333333?text=Copie+Scann%C3%A9e+avec+Grille+de+Notation](https://github.com/AdemYehmed/AutoNote-OCR/blob/main/docs/exemple_copie.jpg))
+![Exemple de copie scannée](![anis121125_page-0001](https://github.com/user-attachments/assets/c8aceb98-002b-45c9-be90-7e2653d4ee72)
+)
 
 **Format d'entrée :**
 - **Type :** Images JPG
