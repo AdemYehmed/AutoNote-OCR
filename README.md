@@ -58,7 +58,7 @@ Système intelligent d'extraction automatique de notes à partir de copies d'exa
 ## 📥 Entrée (Input)
 
 ### Exemple de Copie Scannée
-![Exemple de copie scannée](![anis121125_page-0002](https://github.com/user-attachments/assets/0fa638d4-34c9-4b58-a781-f4eababeb223)
+(![anis121125_page-0002](https://github.com/user-attachments/assets/0fa638d4-34c9-4b58-a781-f4eababeb223)
 
 **Format d'entrée :**
 - **Type :** Images JPG
@@ -72,7 +72,8 @@ Système intelligent d'extraction automatique de notes à partir de copies d'exa
 ## 📤 Sortie (Output)
 
 ### Exemple de Fichier Excel Généré
-![Exemple fichier Excel](https://via.placeholder.com/800x400/e8f5e9/2e7d32?text=Fichier+Excel+avec+Notes+Extraites)
+(<img width="809" height="627" alt="Capture d&#39;écran 2025-12-29 124117" src="https://github.com/user-attachments/assets/387faa4a-e5d7-4b7c-bf10-8cecac35bf73" />
+)
 
 **Format de sortie :**
 ```
