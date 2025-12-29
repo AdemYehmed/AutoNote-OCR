@@ -58,8 +58,7 @@ Système intelligent d'extraction automatique de notes à partir de copies d'exa
 ## 📥 Entrée (Input)
 
 ### Exemple de Copie Scannée
-![Exemple de copie scannée](![anis121125_page-0001](https://github.com/user-attachments/assets/c8aceb98-002b-45c9-be90-7e2653d4ee72)
-)
+![Exemple de copie scannée](![anis121125_page-0002](https://github.com/user-attachments/assets/0fa638d4-34c9-4b58-a781-f4eababeb223)
 
 **Format d'entrée :**
 - **Type :** Images JPG
