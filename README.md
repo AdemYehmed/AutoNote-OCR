@@ -205,11 +205,11 @@ Le fichier Excel sera généré automatiquement dans le dossier de sortie.
 
 ## 👨‍💻 Auteur
 
-**Votre Nom**  
-Ingénieur en Vision par Ordinateur & Data Science
+**Adem Yehmed**  
+Ingénieur en genie Electrique
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/votre-profil)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/votre-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/ademyehmed)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/AdemYehmed/)
 
 ---
 
